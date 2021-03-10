@@ -10,3 +10,5 @@ https://visp-doc.inria.fr/doxygen/visp-3.2.0/tutorial-tracking-mb-generic-aprilt
 
 * 演算法相關
   *  [Kociemba's Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba's_Algorithm)
+* color 
+  *  [Rubik's Cube](https://colorswall.com/palette/171/)
