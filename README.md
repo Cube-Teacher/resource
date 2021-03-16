@@ -12,3 +12,5 @@ https://visp-doc.inria.fr/doxygen/visp-3.2.0/tutorial-tracking-mb-generic-aprilt
   *  [Kociemba's Algorithm](https://www.speedsolving.com/wiki/index.php/Kociemba's_Algorithm)
 * color 
   *  [Rubik's Cube](https://colorswall.com/palette/171/)
+* opencv
+ * [document](https://docs.opencv.org/master/d2/d96/tutorial_py_table_of_contents_imgproc.html) 
